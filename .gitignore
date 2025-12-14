@@ -1,0 +1,15 @@
+# 1. Virtual Environment (Crucial!)
+.venv/
+env/
+venv/
+
+# 2. Python Cache
+__pycache__/
+*.pyc
+
+# 3. Datasets
+*.csv
+
+# 4. System Files
+.DS_Store
+Thumbs.db
