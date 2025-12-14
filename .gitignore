@@ -7,9 +7,6 @@ venv/
 __pycache__/
 *.pyc
 
-# 3. Datasets
-*.csv
-
-# 4. System Files
+# 3. System Files
 .DS_Store
 Thumbs.db
