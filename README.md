@@ -1,4 +1,4 @@
-# 📧 SMS Spam Detection with Machine Learning
+# 📧 Email Spam Detection with Machine Learning
 
 A Machine Learning project that detects whether a text message or email is **Spam** or **Ham**. This project includes a model training script and a user-friendly Graphical User Interface (GUI) built with Tkinter.
 
