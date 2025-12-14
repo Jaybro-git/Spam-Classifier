@@ -20,6 +20,5 @@ SPAMCLASSIFIER/
 ├── app.py                   # GUI Application for testing
 ├── main.py                  # Script to train and evaluate the model
 ├── spam.csv                 # Dataset file
-├── requirements.txt         # List of dependencies
 ├── README.md                # Project documentation
 └── .gitignore               # Files to ignore (pkl, venv, etc.)
